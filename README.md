@@ -33,8 +33,8 @@ Target women customers aged 21-45 years living in Maharashtra, Karnataka, Uttar 
 3. **New Era Fashion Store Sales Analysis.pbix**: The Power BI file containing the detailed analysis and visualizations.
 
 # Requirements
-Power BI Desktop (for viewing and interacting with the .pbix file)
-Microsoft Excel (for viewing the raw data file)
+1. Power BI Desktop (for viewing and interacting with the .pbix file)
+2. Microsoft Excel (for viewing the raw data file)
 
 If you have any questions or feedback, please feel free to contact me at yadav.ankita.0611@gmail.com
 
